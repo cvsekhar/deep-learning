@@ -14,3 +14,8 @@ face_generation/data/
 
 */.floyd*
 
+tv-script-generation/checkpoint
+tv-script-generation/save.index
+tv-script-generation/save.data-00000-of-00001
+tv-script-generation/save.meta
+
